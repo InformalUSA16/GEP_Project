@@ -10,12 +10,12 @@ public class Movement : MonoBehaviour
     private float vertical;
     public float runSpeed = 20.0f;
     private Animator _animator;
-    private AudioSource _audio;
+    private AudioSource _walkingAudio;
 
     // Start is called before the first frame update
     void Start()
     {
-        _audio = GetComponent<AudioSource>();
+        _walkingAudio = GetComponent<AudioSource>();
         body = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
     }
@@ -33,18 +33,20 @@ public class Movement : MonoBehaviour
         if (body.velocity == Vector2.zero)
         {
             _animator.SetBool("Moving",false);
-            if (_audio.isPlaying)
+            if (_walkingAudio.isPlaying)
             {
-                _audio.Play();
+                _walkingAudio.Play();
             }
+            transform.rotation.Set(0,0,0,0);
         }
         else
         {
             _animator.SetBool("Moving",true);
-            if (_audio.isPlaying == false)
+            if (_walkingAudio.isPlaying == false)
             {
-                _audio.Stop();
+                _walkingAudio.Stop();
             }
+            transform.rotation.Set(0,0,0,0);
         }
     }
 }
