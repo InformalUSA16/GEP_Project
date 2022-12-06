@@ -1,0 +1,1569 @@
+fileFormatVersion: 2
+guid: c43fed98353fe974cb0ade40357168a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Citizen_Front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11480
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a39ddd7ff2b9f4facd63a0f02a05fa
+      internalID: 1067357890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 11480
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e83b698e99e24393c77fcbc8f87fa
+      internalID: 99934935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_2
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 11480
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb4e548ba23a8440a7e4c687bf18f81
+      internalID: 752292847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10906
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117892126c49fcd41b9e51369c4344cc
+      internalID: 1481187807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 10906
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bf691f369b214ba2f359960fee652
+      internalID: -1653204130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_5
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 10906
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d57a9b38b471c4991918846353e7da
+      internalID: 875641542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10332
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c480b16ec55c56478ff47c35c47aeb5
+      internalID: -1878825999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 10332
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59197e3746998784195717fef2f61709
+      internalID: 1496569167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 10332
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04a3387c1b70ed4b8b0bf56516f1f3e
+      internalID: 633749180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9758
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f750675fd1ee8e48a91c3e3d4712214
+      internalID: 2043797791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9758
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc25bb0cd77d0534bb03c3479bbcdf0f
+      internalID: 1016052420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_11
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 9758
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1dfffeebea5e4783a9efa7536185e
+      internalID: 1598733253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9184
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc5c61fddff5e4f87c0f584389e606
+      internalID: 470688734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9184
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac7f4c090be16e47854806ee5fdb53d
+      internalID: -1697335099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_14
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 9184
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efe5130c6fb01d44b4e8e81c093d307
+      internalID: 44799925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8610
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0afe3b198e4064b9729e027c636ec8
+      internalID: -189214473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 8610
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e9c39edfe32d4fb3a1b5240ea671a
+      internalID: -1436750106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_17
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 8610
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29580f344c4e98d4ba73add033ef80d1
+      internalID: 340044522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8036
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d9bcc53fe01048b083d1b4479fcc0
+      internalID: -1691133543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 8036
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ecfbe0757e55942b050d6046dd5e24
+      internalID: -812089995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_20
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 8036
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996946743434d3e4287a5b60370fe6d0
+      internalID: 1371417135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7462
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2c98c12a1baa4c975166af3cb496d
+      internalID: 1106326161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7462
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575f19f122d065418c2ee82c6adca04
+      internalID: -977565152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 7462
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efac4325ce639f48bcc041c66a5c511
+      internalID: -1878841700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6888
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681f950bc7808f4bb62bdde166f057d
+      internalID: 1008363226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_25
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6888
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0b2defc0756f488cc83cfd7d8d01b
+      internalID: 1801099998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_26
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 6888
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754c1304f338fd45ab6ee8d1a29ff3f
+      internalID: 1757690502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6314
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058523a58220337489db515ec8d9d230
+      internalID: 1778099660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6314
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d2a30698a7a444879048f503be8f1
+      internalID: 2142908528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_29
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 6314
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5097f23e59c6f324a8fea63946213aed
+      internalID: 1871026706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5740
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c51093954e77db4d9a70ab4c04c6a2a
+      internalID: 1819497658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_31
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5740
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222934a9063545e4fa0f9ec88c38a35e
+      internalID: 669153233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_32
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 5740
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6e8dcbd7edf247a7f8ef2198d56ff
+      internalID: -2141061989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5166
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd1a130b8bd8d438307bade1e81bed
+      internalID: -557755575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5166
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee626c79936174da5e267b823b845c
+      internalID: -1624125902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_35
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 5166
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9335737b77e7d54a8106386b011a89d
+      internalID: 1290759356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4592
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419efead509c674a8e47f2f24f04753
+      internalID: 138419453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4592
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3021670eed1f49a6537b9418c0d67
+      internalID: 1482303307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 4592
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eece7689de1084a8fda41ce9a4eb73
+      internalID: 670047701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4018
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d083ada20bfe48bed53ebdcc68985
+      internalID: -2045614289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4018
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ee645682bb714ea1c8f0ef409810a
+      internalID: -2032361866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_41
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 4018
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f754f7f0fb42274fa5f7c2261e7e46f
+      internalID: -907830868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3444
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea2872720b627949a8ec131a3abe120
+      internalID: 908049766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3444
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f98e13adeffa34d9f195c1f8c39508
+      internalID: -1596915443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_44
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3444
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b82ed1b3eebdf41828d6927b36918a
+      internalID: -630891046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2870
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18aa5e0fcdad9428e5daef67ae8a52
+      internalID: -1890792299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2870
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eda1efcd21020540909a797a2ab6e31
+      internalID: -673209568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_47
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2870
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68bc361f265c1c49bebb21a692a4554
+      internalID: 1365363507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2296
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204a291f6d3edc4b89ace6d438bf393
+      internalID: -927897865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2296
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e684ba61f7f152841941c850bea671e9
+      internalID: -1284155617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_50
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2296
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e61d81eba210141aad6387ab6a8829
+      internalID: -2027439416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1722
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b5a4e680d9e594cb06c0142c70a02c
+      internalID: 1654695882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_52
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1722
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4787d9918ae6cc43ab5a9c9082bb354
+      internalID: -505539227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_53
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1722
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec35ec74ce043f40adc22a13bd4c399
+      internalID: 697964584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa52b4fbe330e498f6bd93ddc76671
+      internalID: -2017151142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_55
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1148
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41acb61336559a14290d4a406ffb01ae
+      internalID: -410613405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_56
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1148
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39127ac7470f834ab7cdcad150b4731
+      internalID: 1110693280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bd682abc5d01540af362ed9baff8ea
+      internalID: -352427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_58
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 574
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3327016b939864dac16ab05fc5a300
+      internalID: 69155149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_59
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 574
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f9633412b586459d77cce086cd9af
+      internalID: 517560204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d56c203867ddcd49b3a200845819e78
+      internalID: 326624917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5a45035143d64b8101710a60235e3
+      internalID: 2000041793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Citizen_Front_62
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 394
+        height: 574
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603879a94b222a645b4d2274a9de1824
+      internalID: -2105277887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Citizen_Front_30: 1819497658
+      Citizen_Front_45: -1890792299
+      Citizen_Front_10: 1016052420
+      Citizen_Front_53: 697964584
+      Citizen_Front_14: 44799925
+      Citizen_Front_17: 340044522
+      Citizen_Front_19: -812089995
+      Citizen_Front_20: 1371417135
+      Citizen_Front_23: -1878841700
+      Citizen_Front_26: 1757690502
+      Citizen_Front_24: 1008363226
+      Citizen_Front_40: -2032361866
+      Citizen_Front_28: 2142908528
+      Citizen_Front_49: -1284155617
+      Citizen_Front_59: 517560204
+      Citizen_Front_42: 908049766
+      Citizen_Front_16: -1436750106
+      Citizen_Front_15: -189214473
+      Citizen_Front_21: 1106326161
+      Citizen_Front_51: 1654695882
+      Citizen_Front_62: -2105277887
+      Citizen_Front_58: 69155149
+      Citizen_Front_37: 1482303307
+      Citizen_Front_29: 1871026706
+      Citizen_Front_34: -1624125902
+      Citizen_Front_1: 99934935
+      Citizen_Front_57: -352427
+      Citizen_Front_48: -927897865
+      Citizen_Front_32: -2141061989
+      Citizen_Front_61: 2000041793
+      Citizen_Front_0: 1067357890
+      Citizen_Front_43: -1596915443
+      Citizen_Front_18: -1691133543
+      Citizen_Front_2: 752292847
+      Citizen_Front_33: -557755575
+      Citizen_Front_39: -2045614289
+      Citizen_Front_5: 875641542
+      Citizen_Front_4: -1653204130
+      Citizen_Front_6: -1878825999
+      Citizen_Front_11: 1598733253
+      Citizen_Front_8: 633749180
+      Citizen_Front_12: 470688734
+      Citizen_Front_31: 669153233
+      Citizen_Front_46: -673209568
+      Citizen_Front_27: 1778099660
+      Citizen_Front_44: -630891046
+      Citizen_Front_47: 1365363507
+      Citizen_Front_13: -1697335099
+      Citizen_Front_25: 1801099998
+      Citizen_Front_36: 138419453
+      Citizen_Front_9: 2043797791
+      Citizen_Front_54: -2017151142
+      Citizen_Front_41: -907830868
+      Citizen_Front_56: 1110693280
+      Citizen_Front_22: -977565152
+      Citizen_Front_50: -2027439416
+      Citizen_Front_3: 1481187807
+      Citizen_Front_52: -505539227
+      Citizen_Front_55: -410613405
+      Citizen_Front_60: 326624917
+      Citizen_Front_35: 1290759356
+      Citizen_Front_38: 670047701
+      Citizen_Front_7: 1496569167
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
