@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ShiftOver.unity
     guid: d0a5472513ecf484cb8c0990f5a09eca
+  - enabled: 1
+    path: Assets/Scenes/Fired.unity
+    guid: c7e3b2d76a4afb94eab19a9d1ac76f80
   m_configObjects: {}

@@ -13,6 +13,7 @@ namespace DefaultNamespace
         }
         public void play()
         {
+            //Debug.Log("Start game");
             SceneManager.LoadScene("MainGame");
         }
         public void quit()
