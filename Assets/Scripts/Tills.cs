@@ -71,6 +71,7 @@ public class Tills : MonoBehaviour
         if (currentValue >= 100)
         {
             SceneManager.LoadScene("Fired");
+            SceneManager.UnloadSceneAsync("MainGame");
         }
     }
 

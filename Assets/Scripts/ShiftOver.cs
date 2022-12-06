@@ -5,7 +5,7 @@ namespace DefaultNamespace
 {
     public class ShiftOver : MonoBehaviour
     {
-        public void returntomenu()
+        public void Menu()
         {
             SceneManager.LoadScene("MainMenu");
         }
