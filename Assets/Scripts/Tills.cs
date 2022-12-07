@@ -36,7 +36,7 @@ public class Tills : MonoBehaviour
     {
         if (!Losing)
         {
-            if (AtTills == false)
+            if (!AtTills)
             {
                 if (!_audio.isPlaying)
                 {
@@ -86,13 +86,13 @@ public class Tills : MonoBehaviour
         }
     }
 
-    private void OnCollisionStay2D(Collision2D collision)
-    {
-        if (collision.transform.CompareTag("Player"))
-        {
-            AtTills = true;
-        }
-    }
+    //private void OnCollisionStay2D(Collision2D collision)
+    //{
+    //    if (collision.transform.CompareTag("Player"))
+    //    {
+    //        AtTills = true;
+    //    }
+    //}
 
     private void OnCollisionExit2D(Collision2D other)
     {
